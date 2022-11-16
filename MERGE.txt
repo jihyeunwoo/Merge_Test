@@ -1,4 +1,1 @@
-HUMAN1
-HUMAN2
-HUMAN2입니다만.
-HUMAN1 입니다.
+HUMAN1 배고프다
