@@ -1,2 +1,3 @@
 HUMAN2 아직 있음.
 HUMAN1 배고프다
+HUMAN3 추가입니다.
